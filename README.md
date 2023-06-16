@@ -71,5 +71,4 @@ function paint(color) {
     square.style = `background-color:${color}`;
   }
 ```
-```
 
