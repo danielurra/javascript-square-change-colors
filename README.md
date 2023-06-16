@@ -36,7 +36,6 @@ Learn the basics of `JavaScript` by completing this small project<br>
 
 </html>
 ```
-<br>
 ## CSS
 ```css
 .container {
