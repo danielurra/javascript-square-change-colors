@@ -4,7 +4,7 @@
 ## Square change color
 ![sq-ch-color](https://github.com/danielurra/javascript-square-change-colors/assets/51704179/2050c8d5-ad05-4a82-9597-aba9a2decb4d)<br>
 Learn the basics of `JavaScript` by completing this small project<br>
-## HTML
+## HTML code - file index.html
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -38,7 +38,7 @@ Learn the basics of `JavaScript` by completing this small project<br>
 
 </html>
 ```
-## CSS
+## CSS code - file style.css
 ```css
 .container {
 display: flex;
@@ -61,7 +61,7 @@ button {
     cursor: pointer;
 }
 ```
-## JavaScript code
+## JavaScript code - file script.js
 ```javascript
 /**  Use the DOM method document.getElementById()
  to access the element and its attributes
