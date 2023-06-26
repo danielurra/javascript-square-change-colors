@@ -62,7 +62,7 @@ button {
 }
 ```
 ## JavaScript code - file script.js
- We can access the element and its attributes, by using the **DOM method** `document.getElementById()`<br>
+ We can access each element and its attributes, by using the **DOM method** `document.getElementById()`<br>
 **onclick** event handler, changes square color<br>
 ```javascript
 function paint(color) {
