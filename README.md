@@ -62,12 +62,9 @@ button {
 }
 ```
 ## JavaScript code - file script.js
+Use the DOM method `document.getElementById()` to access the element and its attributes<br>
+**onclick** event handler, changes square color<br>
 ```javascript
-/**  Use the DOM method document.getElementById()
- to access the element and its attributes
- onclick event handler, changes square color 
-*/
-    
 function paint(color) {
     const square = document.getElementById('squareID');
     square.style = `background-color:${color}`;
